@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/justified-ciudad-salvaje-1690425678.png" group-title="Justified",Ciudad salvaje 1x1
+https://server17.peliscdn.online/newhls/93f17bec194dad032fcd34065be4d01b/EP.1.2.v0.1690444218.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/justified-ciudad-salvaje-1690425678.png" group-title="Justified",Ciudad salvaje 1x2
+https://server18.peliscdn.online/newhls/93f17bec194dad032fcd34065be4d01b/EP.2.2.v0.1690430059.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/justified-ciudad-salvaje-1690425678.png" group-title="Justified",Ciudad salvaje 1x3
+https://server19.peliscdn.online/newhls/93f17bec194dad032fcd34065be4d01b/EP.3.2.v2.1692234098.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/justified-ciudad-salvaje-1690425678.png" group-title="Justified",Ciudad salvaje 1x4
+https://server07.peliscdn.online/newhls/93f17bec194dad032fcd34065be4d01b/EP.4.0.v0.1691101225.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/justified-ciudad-salvaje-1690425678.png" group-title="Justified",Ciudad salvaje 1x5
+https://server17.peliscdn.online/newhls/93f17bec194dad032fcd34065be4d01b/EP.5.0.v0.1691738433.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/justified-ciudad-salvaje-1690425678.png" group-title="Justified",Ciudad salvaje 1x1
+https://server12.peliscdn.online/newhls/93f17bec194dad032fcd34065be4d01b/EP.6.0.v0.1692230273.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/justified-ciudad-salvaje-1690425678.png" group-title="Justified",Ciudad salvaje 1x1
+https://server24.peliscdn.online/newhls/93f17bec194dad032fcd34065be4d01b/EP.7.0.v0.1693046762.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/justified-ciudad-salvaje-1690425678.png" group-title="Justified",Ciudad salvaje 1x1
+https://server12.peliscdn.online/newhls/93f17bec194dad032fcd34065be4d01b/EP.8.0.v0.1693426729.720.m3u8
